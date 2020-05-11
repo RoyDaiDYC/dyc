@@ -925,15 +925,15 @@
                     <%--<tr>
                         <td><input type="checkbox"/></td>
                         <td>发传单</td>
-                        <td>2020-10-10</td>
-                        <td>2020-10-20</td>
+                        <td>2017-10-10</td>
+                        <td>2017-10-20</td>
                         <td>zhangsan</td>
                     </tr>
                     <tr>
                         <td><input type="checkbox"/></td>
                         <td>发传单</td>
-                        <td>2020-10-10</td>
-                        <td>2020-10-20</td>
+                        <td>2017-10-10</td>
+                        <td>2017-10-20</td>
                         <td>zhangsan</td>
                     </tr>--%>
                     </tbody>
@@ -1374,8 +1374,8 @@
                 </c:if>
                 <%--<tr>
                     <td><a href="../activity/detail.jsp" style="text-decoration: none;">发传单</a></td>
-                    <td>2020-10-10</td>
-                    <td>2020-10-20</td>
+                    <td>2017-10-10</td>
+                    <td>2017-10-20</td>
                     <td>zhangsan</td>
                     <td><a href="javascript:void(0);" data-toggle="modal" data-target="#unbindActivityModal"
                            style="text-decoration: none;"><span class="glyphicon glyphicon-remove"></span>解除关联</a></td>

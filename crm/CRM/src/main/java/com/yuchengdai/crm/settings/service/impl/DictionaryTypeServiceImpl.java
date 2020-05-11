@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * RoyDai
- * 2020/3/8   16:35
+ * 2017/3/8   16:35
  */
 @Service
 public class DictionaryTypeServiceImpl implements DictionaryTypeService {

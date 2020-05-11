@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * RoyDai
- * 2020/3/8   14:37
+ * 2017/3/8   14:37
  */
 @Controller
 public class DictionaryController {

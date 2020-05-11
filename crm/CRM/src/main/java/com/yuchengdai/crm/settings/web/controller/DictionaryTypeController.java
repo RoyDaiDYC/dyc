@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * RoyDai
- * 2020/3/8   14:49
+ * 2017/3/8   14:49
  */
 @Controller
 public class DictionaryTypeController {

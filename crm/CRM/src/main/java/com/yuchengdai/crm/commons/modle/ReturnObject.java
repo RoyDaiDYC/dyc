@@ -2,7 +2,7 @@ package com.yuchengdai.crm.commons.modle;
 
 /**
  * RoyDai
- * 2017/3/6   15:00
+ * 2020/3/6   15:00
  */
 public class ReturnObject {
     //0代表失败，1代表成功

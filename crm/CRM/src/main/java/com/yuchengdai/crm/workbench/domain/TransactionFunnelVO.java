@@ -2,7 +2,7 @@ package com.yuchengdai.crm.workbench.domain;
 
 /**
  * RoyDai
- * 2017/4/16   23:02
+ * 2020/4/16   23:02
  */
 public class TransactionFunnelVO {
 

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * RoyDai
- * 2017/3/8   16:33
+ * 2020/3/8   16:33
  */
 public interface DictionaryTypeService {
 

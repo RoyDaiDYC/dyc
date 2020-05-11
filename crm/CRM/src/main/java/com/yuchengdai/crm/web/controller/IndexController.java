@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * RoyDai
- * 2017/3/5   19:34
+ * 2020/3/5   19:34
  */
 @Controller
 public class IndexController {
